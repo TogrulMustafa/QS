@@ -1,0 +1,10 @@
+<?php
+
+
+$databasa_name=
+
+
+
+
+
+?>
